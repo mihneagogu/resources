@@ -1,0 +1,7 @@
+- type confusion cve for windows: https://securityintelligence.com/x-force/critically-close-to-zero-day-exploiting-microsoft-kernel-streaming-service/
+- optimisation technique for int to string (slides): https://www.slideshare.net/andreialexandrescu1/three-optimization-tips-for-c-15708507
+- optimisation technique for int to string (article): https://www.facebook.com/notes/10158791579037200/
+- vectorised emulation of hardware: https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html
+- fn (...) -> impl Trait in Rust: https://www.youtube.com/watch?v=CWiz_RtA1Hw
+- writing and benchmarking a high-performance atomic queue (Rust & C++): https://www.youtube.com/watch?v=zd4XE8gjdB8
+- Scala with cats (book on pure FP in Scala using Cats library): https://www.scalawithcats.com/
